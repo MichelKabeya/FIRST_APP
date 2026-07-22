@@ -9,6 +9,7 @@ export default function App() {
       <Text>What do you like about them?</Text>
       <TextInput placeholder="Enter your thoughts..." />
       <Button title="add" />
+      <Text>click the button bellow to add your thought</Text>
     </View>
   );
 }
@@ -16,7 +17,7 @@ export default function App() {
 const styles = StyleSheet.create({
   container: {
     flex: 1,
-    backgroundColor: '#fff',
+    backgroundColor: '#acd81b',
     alignItems: 'center',
     justifyContent: 'center',
   },
