@@ -10,6 +10,7 @@ export default function App() {
       <TextInput placeholder="Enter your thoughts..." />
       <Button title="add" />
       <Text>click the button bellow to add your thought</Text>
+      <Text>What is your favorite sport car?</Text>
     </View>
   );
 }
